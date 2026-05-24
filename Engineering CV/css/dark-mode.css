@@ -1,0 +1,40 @@
+body.dark {
+    --bg: #0f1a2e;
+    --bg-secondary: #162744;
+    --text: #ffffff;
+    --text-light: #cbd5e1;
+    --card-bg: #162744;
+    --card-shadow: 0 15px 40px rgba(0,0,0,0.5);
+    --header-bg: rgba(15,26,46,0.95);
+}
+body.dark,
+body.dark h1, body.dark h2, body.dark h3, body.dark h4, body.dark h5, body.dark h6,
+body.dark p, body.dark span, body.dark a, body.dark li, body.dark label,
+body.dark .nav-list a, body.dark .logo, body.dark .icon-btn,
+body.dark .section-header h2, body.dark .section-header p,
+body.dark .project-card h3, body.dark .project-card p,
+body.dark .timeline-content h4, body.dark .timeline-content p,
+body.dark .donut-text .percent, body.dark .donut-text .label,
+body.dark .form-group label, body.dark .bottom-nav-item,
+body.dark .footer p, body.dark .glass-card h4, body.dark .glass-card p,
+body.dark .booking-form input, body.dark .booking-form textarea {
+    color: #ffffff !important;
+}
+body.dark .btn-primary { background: var(--accent); color: #1e3a5f !important; }
+body.dark .btn-outline { border-color: var(--accent); color: var(--accent) !important; }
+body.dark .btn-outline:hover { background: var(--accent); color: #1e3a5f !important; }
+body.dark .hero-text p { color: #94a3b8 !important; }
+body.dark .hero-stats span:last-child { color: #94a3b8 !important; }
+body.dark .section-header p { color: #94a3b8 !important; }
+body.dark .project-card { background: var(--card-bg); }
+body.dark .project-card p { color: #cbd5e1 !important; }
+body.dark .project-img { background: var(--bg-secondary); }
+body.dark .bg-circle { stroke: #1e3a5f; }
+body.dark .booking-form input, body.dark .booking-form textarea { background: rgba(255,255,255,0.03); border-color: rgba(255,255,255,0.1); }
+body.dark .footer { background: #091220; }
+body.dark .footer .social-links a { background: rgba(255,255,255,0.05); }
+body.dark .footer .social-links a:hover { background: var(--accent); }
+body.dark .bottom-nav { background: var(--card-bg); border-top:1px solid rgba(255,255,255,0.05); }
+body.dark .bottom-nav-item.active { color: var(--accent) !important; }
+body.dark .timeline-dot { border-color: #162744; }
+body.dark .timeline-date { color: #1e3a5f !important; }
