@@ -25,7 +25,7 @@ const translations = {
         skill1: 'قسطرة قلبية', skill2: 'تخطيط صدى', skill3: 'جراحة مفتوحة', skill4: 'رعاية حرجة',
         contact_title: 'تواصل معي', contact_sub: 'للاستشارات الطبية والتعاون',
         form_name: 'الاسم', form_email: 'البريد الإلكتروني', form_msg: 'الرسالة', form_submit: 'إرسال',
-        copyright: '© 2025 د. فهد العنزي. قالب من <strong>موقعك</strong> – Mawqeak'
+        copyright: '© 2026 د. فهد العنزي. قالب من <strong>موقعك</strong> – Mawqeak'
     },
     en: {
         page_title: 'Dr. Fahad Al-Anzi | Cardiologist',
@@ -53,7 +53,7 @@ const translations = {
         skill1: 'Catheterization', skill2: 'Echocardiography', skill3: 'Open Surgery', skill4: 'Critical Care',
         contact_title: 'Contact Me', contact_sub: 'For medical consultations and collaboration',
         form_name: 'Name', form_email: 'Email', form_msg: 'Message', form_submit: 'Send',
-        copyright: '© 2025 Dr. Fahad Al-Anzi. Template by <strong>Mawqeak</strong>'
+        copyright: '© 2026 Dr. Fahad Al-Anzi. Template by <strong>Mawqeak</strong>'
     }
 };
 
